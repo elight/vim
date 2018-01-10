@@ -19,3 +19,6 @@
 [submodule "my_plugins/vim-easy-align"]
 	path = my_plugins/vim-easy-align
 	url = https://github.com/junegunn/vim-easy-align
+[submodule "my_plugins/ack.vim"]
+	path = my_plugins/ack.vim
+	url = https://github.com/mileszs/ack.vim

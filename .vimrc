@@ -31,3 +31,8 @@ match ErrorMsg '\s\+$'
 
 " kill trailing whitespace automatically
 autocmd BufWritePre * :%s/\s\+$//e
+
+" ag instead of ack
+if executable('ag')
+  let g:ackprg = 'ag --vimgrep'
+endif
