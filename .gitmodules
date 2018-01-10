@@ -1,12 +1,3 @@
-[submodule "my_plugins/vim-easy-align"]
-	path = my_plugins/vim-easy-align
-	url = https://github.com/junegunn/vim-easy-align
-[submodule "my_plugins/vim-ruby"]
-	path = my_plugins/vim-ruby
-	url = https://github.com/vim-ruby/vim-ruby
-[submodule "my_plugins/vim-go"]
-	path = my_plugins/vim-go
-	url = https://github.com/fatih/vim-go
 [submodule "my_plugins/vim-rhubarb"]
 	path = my_plugins/vim-rhubarb
 	url = https://github.com/tpope/vim-rhubarb
