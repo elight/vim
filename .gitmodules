@@ -7,3 +7,15 @@
 [submodule "my_plugins/vim-go"]
 	path = my_plugins/vim-go
 	url = https://github.com/fatih/vim-go
+[submodule "my_plugins/vim-rhubarb"]
+	path = my_plugins/vim-rhubarb
+	url = https://github.com/tpope/vim-rhubarb
+[submodule "my_plugins/ctrlp.vim"]
+	path = my_plugins/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim
+[submodule "my_plugins/vim-json"]
+	path = my_plugins/vim-json
+	url = https://github.com/elzr/vim-json
+[submodule "my_plugins/vim-projectionist"]
+	path = my_plugins/vim-projectionist
+	url = https://github.com/tpope/vim-projectionist
