@@ -22,3 +22,6 @@
 [submodule "my_plugins/ack.vim"]
 	path = my_plugins/ack.vim
 	url = https://github.com/mileszs/ack.vim
+[submodule "my_plugins/vim-elixir"]
+	path = my_plugins/vim-elixir
+	url = https://github.com/elixir-editors/vim-elixir
